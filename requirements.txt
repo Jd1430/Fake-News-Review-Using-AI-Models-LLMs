@@ -1,0 +1,8 @@
+bs4
+dotenv
+google
+os
+pkg_resources
+re
+requests==2.32.3
+streamlit==1.42.2
