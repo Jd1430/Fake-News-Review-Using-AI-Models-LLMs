@@ -8,6 +8,14 @@ This project is a **Streamlit-based web app** that detects **fake news** by anal
 - 🤖 **Leverages Google Gemini AI for fact-checking**
 - 📊 **Provides reasoning and confidence level for fake news detection**
 
+## Output Snapshots
+- ![Screenshot 2025-03-26 145503](https://github.com/user-attachments/assets/83dc93df-f947-43d8-aaed-e7b4179d813e)
+- ![Screenshot 2025-03-26 145632](https://github.com/user-attachments/assets/1d4317f1-030e-4c71-ace5-329bd29aaff3)
+- ![Screenshot 2025-03-26 150313](https://github.com/user-attachments/assets/317000eb-9167-47f6-9ba7-0113bd39ece6)
+
+
+
+
 ## 🛠️ Installation
 
 Clone the repository and navigate into the project folder:
